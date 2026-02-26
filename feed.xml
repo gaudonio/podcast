@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+<channel>
+    <title>B's Tweet Digest</title>
+    <link>https://gaudonio.github.io/podcast</link>
+    <language>en-us</language>
+    <itunes:author>B</itunes:author>
+    <itunes:summary>Daily distilled learnings from Twitter bookmarks</itunes:summary>
+    <description>Daily distilled learnings from Twitter bookmarks</description>
+    <itunes:owner>
+        <itunes:name>B</itunes:name>
+    </itunes:owner>
+    <itunes:image href="https://gaudonio.github.io/podcast/cover.jpg"/>
+    <itunes:category text="Technology"/>
+
+    <item>
+        <title>Tweet Digest - 2026-02-26 (Script Only)</title>
+        <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
+        <guid isPermaLink="false">tweet-digest-2026-02-26-script</guid>
+        <description>Audio coming soon. Read the script: https://gaudonio.github.io/podcast/script-2026-02-26.md</description>
+    </item>
+</channel>
+</rss>
