@@ -9,15 +9,18 @@
     <description>Daily distilled learnings from Twitter bookmarks</description>
     <itunes:owner>
         <itunes:name>B</itunes:name>
+        <itunes:email>podcast@example.com</itunes:email>
     </itunes:owner>
     <itunes:image href="https://gaudonio.github.io/podcast/cover.jpg"/>
     <itunes:category text="Technology"/>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
 
     <item>
-        <title>Tweet Digest - 2026-02-26 (Script Only)</title>
-        <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
-        <guid isPermaLink="false">tweet-digest-2026-02-26-script</guid>
-        <description>Audio coming soon. Read the script: https://gaudonio.github.io/podcast/script-2026-02-26.md</description>
+        <title>Welcome to B's Tweet Digest</title>
+        <pubDate>Wed, 26 Feb 2026 12:00:00 GMT</pubDate>
+        <guid isPermaLink="false">welcome-episode</guid>
+        <description>Welcome to B's Tweet Digest - daily distilled learnings from Twitter bookmarks. First episodes with audio coming soon!</description>
     </item>
 </channel>
 </rss>
