@@ -17,10 +17,13 @@
     <itunes:type>episodic</itunes:type>
 
     <item>
-        <title>Welcome to B's Tweet Digest</title>
+        <title>Welcome - Setup Complete!</title>
         <pubDate>Wed, 26 Feb 2026 12:00:00 GMT</pubDate>
-        <guid isPermaLink="false">welcome-episode</guid>
-        <description>Welcome to B's Tweet Digest - daily distilled learnings from Twitter bookmarks. First episodes with audio coming soon!</description>
+        <guid isPermaLink="false">welcome-setup</guid>
+        <description>Welcome to B's Tweet Digest! Your podcast pipeline is now active. Episodes with audio will appear here daily.</description>
+        <enclosure url="https://gaudonio.github.io/podcast/welcome.mp3" length="10240" type="audio/mpeg"/>
+        <itunes:duration>0:05</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
     </item>
 </channel>
 </rss>
