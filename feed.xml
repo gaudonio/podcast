@@ -18,8 +18,8 @@
     
     <item>
       <title>Daily Tech Insights - February 26, 2026</title>
-      <link>https://github.com/gaudonio/podcast/blob/main/episodes/daily-tech-insights-2026-02-26.mp3</link>
-      <guid isPermaLink="true">https://github.com/gaudonio/podcast/blob/main/episodes/daily-tech-insights-2026-02-26.mp3</guid>
+      <link>https://raw.githubusercontent.com/gaudonio/podcast/main/daily-tech-insights-2026-02-26.mp3</link>
+      <guid isPermaLink="true">https://raw.githubusercontent.com/gaudonio/podcast/main/daily-tech-insights-2026-02-26.mp3</guid>
       <description><![CDATA[
         <h2>Today's Topics:</h2>
         <ul>
@@ -33,7 +33,7 @@
         <p>Generated using OpenAI TTS (voices: alloy & echo)</p>
       ]]></description>
       <pubDate>Thu, 26 Feb 2026 16:00:00 PST</pubDate>
-      <enclosure url="https://raw.githubusercontent.com/gaudonio/podcast/main/episodes/daily-tech-insights-2026-02-26.mp3" length="0" type="audio/mpeg"/>
+      <enclosure url="https://raw.githubusercontent.com/gaudonio/podcast/main/daily-tech-insights-2026-02-26.mp3" length="2713004" type="audio/mpeg"/>
       <itunes:duration>05:00</itunes:duration>
       <itunes:author>Daily Tech Insights</itunes:author>
       <itunes:summary>Today's episode covers Notion Workers, OpenFangg OS, Hermes Agent, AI creative workflows, and memory management for AI agents.</itunes:summary>
