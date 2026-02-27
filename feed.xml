@@ -17,6 +17,21 @@
     <itunes:category text="Technology"/>
     
     <item>
+      <title>Tweet Digest - February 26, 2026</title>
+      <link>https://raw.githubusercontent.com/gaudonio/podcast/main/tweet-digest-2026-02-26.mp3</link>
+      <guid isPermaLink="true">https://raw.githubusercontent.com/gaudonio/podcast/main/tweet-digest-2026-02-26.mp3</guid>
+      <description><![CDATA[
+        <p>Earlier episode generated with ElevenLabs TTS. Full conversational digest of Twitter bookmarks.</p>
+      ]]></description>
+      <pubDate>Thu, 26 Feb 2026 08:00:00 PST</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/gaudonio/podcast/main/tweet-digest-2026-02-26.mp3" length="4432487" type="audio/mpeg"/>
+      <itunes:duration>08:00</itunes:duration>
+      <itunes:author>Daily Tech Insights</itunes:author>
+      <itunes:summary>Earlier episode with ElevenLabs voices.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    
+    <item>
       <title>Daily Tech Insights - February 26, 2026</title>
       <link>https://raw.githubusercontent.com/gaudonio/podcast/main/daily-tech-insights-2026-02-26.mp3</link>
       <guid isPermaLink="true">https://raw.githubusercontent.com/gaudonio/podcast/main/daily-tech-insights-2026-02-26.mp3</guid>
