@@ -6,8 +6,8 @@
     <description>Daily podcast covering the latest in AI, tech, and developer tools from curated Twitter bookmarks.</description>
     <language>en</language>
     <pubDate>Thu, 26 Feb 2026 16:00:00 PST</pubDate>
-    <lastBuildDate>Thu, 26 Feb 2026 16:00:00 PST</lastBuildDate>
-    <atom:link href="https://raw.githubusercontent.com/gaudonio/podcast/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <lastBuildDate>Thu, 26 Feb 2026 17:00:00 PST</lastBuildDate>
+    <atom:link href="https://gaudonio.github.io/podcast/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Daily Tech Insights</itunes:author>
     <itunes:subtitle>AI and Tech News Daily</itunes:subtitle>
@@ -18,13 +18,13 @@
     
     <item>
       <title>Tweet Digest - February 26, 2026</title>
-      <link>https://raw.githubusercontent.com/gaudonio/podcast/main/tweet-digest-2026-02-26.mp3</link>
-      <guid isPermaLink="true">https://raw.githubusercontent.com/gaudonio/podcast/main/tweet-digest-2026-02-26.mp3</guid>
+      <link>https://gaudonio.github.io/podcast/tweet-digest-2026-02-26.mp3</link>
+      <guid isPermaLink="true">https://gaudonio.github.io/podcast/tweet-digest-2026-02-26.mp3</guid>
       <description><![CDATA[
         <p>Earlier episode generated with ElevenLabs TTS. Full conversational digest of Twitter bookmarks.</p>
       ]]></description>
       <pubDate>Thu, 26 Feb 2026 08:00:00 PST</pubDate>
-      <enclosure url="https://raw.githubusercontent.com/gaudonio/podcast/main/tweet-digest-2026-02-26.mp3" length="4432487" type="audio/mpeg"/>
+      <enclosure url="https://gaudonio.github.io/podcast/tweet-digest-2026-02-26.mp3" length="4432487" type="audio/mpeg"/>
       <itunes:duration>08:00</itunes:duration>
       <itunes:author>Daily Tech Insights</itunes:author>
       <itunes:summary>Earlier episode with ElevenLabs voices.</itunes:summary>
@@ -33,8 +33,8 @@
     
     <item>
       <title>Daily Tech Insights - February 26, 2026</title>
-      <link>https://raw.githubusercontent.com/gaudonio/podcast/main/daily-tech-insights-2026-02-26.mp3</link>
-      <guid isPermaLink="true">https://raw.githubusercontent.com/gaudonio/podcast/main/daily-tech-insights-2026-02-26.mp3</guid>
+      <link>https://gaudonio.github.io/podcast/daily-tech-insights-2026-02-26.mp3</link>
+      <guid isPermaLink="true">https://gaudonio.github.io/podcast/daily-tech-insights-2026-02-26.mp3</guid>
       <description><![CDATA[
         <h2>Today's Topics:</h2>
         <ul>
@@ -48,7 +48,7 @@
         <p>Generated using OpenAI TTS (voices: alloy & echo)</p>
       ]]></description>
       <pubDate>Thu, 26 Feb 2026 16:00:00 PST</pubDate>
-      <enclosure url="https://raw.githubusercontent.com/gaudonio/podcast/main/daily-tech-insights-2026-02-26.mp3" length="2713004" type="audio/mpeg"/>
+      <enclosure url="https://gaudonio.github.io/podcast/daily-tech-insights-2026-02-26.mp3" length="2713004" type="audio/mpeg"/>
       <itunes:duration>05:00</itunes:duration>
       <itunes:author>Daily Tech Insights</itunes:author>
       <itunes:summary>Today's episode covers Notion Workers, OpenFangg OS, Hermes Agent, AI creative workflows, and memory management for AI agents.</itunes:summary>
