@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>Daily Tech Insights</title>
+    <link>https://github.com/gaudonio/podcast</link>
+    <description>Daily podcast covering the latest in AI, tech, and developer tools from curated Twitter bookmarks.</description>
+    <language>en</language>
+    <pubDate>Thu, 26 Feb 2026 16:00:00 PST</pubDate>
+    <lastBuildDate>Thu, 26 Feb 2026 16:00:00 PST</lastBuildDate>
+    <atom:link href="https://raw.githubusercontent.com/gaudonio/podcast/main/feed.xml" rel="self" type="application/rss+xml"/>
+    
+    <itunes:author>Daily Tech Insights</itunes:author>
+    <itunes:subtitle>AI and Tech News Daily</itunes:subtitle>
+    <itunes:summary>Daily podcast covering the latest in AI, tech, and developer tools from curated Twitter bookmarks. Hosted by Alex and Jordan.</itunes:summary>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:category text="Technology"/>
+    
+    <item>
+      <title>Daily Tech Insights - February 26, 2026</title>
+      <link>https://github.com/gaudonio/podcast/blob/main/episodes/daily-tech-insights-2026-02-26.mp3</link>
+      <guid isPermaLink="true">https://github.com/gaudonio/podcast/blob/main/episodes/daily-tech-insights-2026-02-26.mp3</guid>
+      <description><![CDATA[
+        <h2>Today's Topics:</h2>
+        <ul>
+          <li><strong>Notion Workers + Custom Agents</strong> - Brian Lovin's experience building specialized agents for side projects</li>
+          <li><strong>AI-Powered Creative Workflows</strong> - Cam Sackett's landing page built with Figma, Cursor AI, Krea AI, and more</li>
+          <li><strong>OpenFangg OS</strong> - Open source operating system for AI agents (137k lines of Rust)</li>
+          <li><strong>Hermes Agent</strong> - Nous Research's agent with multi-level memory system</li>
+          <li><strong>AI Memory Management</strong> - Community solutions for persistent AI context</li>
+        </ul>
+        <p>Hosts: Alex (Host A) & Jordan (Host B)</p>
+        <p>Generated using OpenAI TTS (voices: alloy & echo)</p>
+      ]]></description>
+      <pubDate>Thu, 26 Feb 2026 16:00:00 PST</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/gaudonio/podcast/main/episodes/daily-tech-insights-2026-02-26.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>05:00</itunes:duration>
+      <itunes:author>Daily Tech Insights</itunes:author>
+      <itunes:summary>Today's episode covers Notion Workers, OpenFangg OS, Hermes Agent, AI creative workflows, and memory management for AI agents.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+  </channel>
+</rss>
