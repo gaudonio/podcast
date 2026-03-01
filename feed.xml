@@ -5,8 +5,8 @@
     <link>https://github.com/gaudonio/podcast</link>
     <description>Daily podcast covering the latest in AI, tech, and developer tools from curated Twitter bookmarks.</description>
     <language>en</language>
-    <pubDate>Thu, 26 Feb 2026 16:00:00 PST</pubDate>
-    <lastBuildDate>Thu, 26 Feb 2026 17:00:00 PST</lastBuildDate>
+    <pubDate>Sun, 01 Mar 2026 05:30:00 PST</pubDate>
+    <lastBuildDate>Sun, 01 Mar 2026 05:30:00 PST</lastBuildDate>
     <atom:link href="https://gaudonio.github.io/podcast/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Daily Tech Insights</itunes:author>
@@ -18,20 +18,37 @@
     <itunes:image href="https://gaudonio.github.io/podcast/cover.png"/>
     
     <item>
-      <title>Tweet Digest - February 26, 2026</title>
-      <link>https://gaudonio.github.io/podcast/tweet-digest-2026-02-26.mp3</link>
-      <guid isPermaLink="true">https://gaudonio.github.io/podcast/tweet-digest-2026-02-26.mp3</guid>
+      <title>Daily Digest - March 1, 2026: 24/7 AI Assistants, Software Factories &amp; The Rise of Generalists</title>
+      <link>https://gaudonio.github.io/podcast/daily-digest-2026-03-01.mp3</link>
+      <guid isPermaLink="true">https://gaudonio.github.io/podcast/daily-digest-2026-03-01.mp3</guid>
       <description><![CDATA[
-        <p>Earlier episode generated with ElevenLabs TTS. Full conversational digest of Twitter bookmarks.</p>
+        <h2>Today's Episode:</h2>
+        <p>A comprehensive digest of 10 fascinating tweets covering the future of AI agents, software engineering, and knowledge work.</p>
+        <h3>Topics Covered:</h3>
+        <ul>
+          <li><strong>@LeoYe_AI on 24/7 AI Assistants</strong> - The shift from "visiting AI" to "living with AI" - AI agents that work while you sleep</li>
+          <li><strong>@charlierguo on Harness Engineering</strong> - Engineering splitting into building the environment vs managing work. OpenAI's million-line product with 3 engineers in 5 months</li>
+          <li><strong>@nlevine19 on Jevons' Paradox in Finance</strong> - How stablecoins reduce costs and increase market entry. Sling Money serving 70 countries with 23 people</li>
+          <li><strong>@arscontexta on Company Knowledge Graphs</strong> - Everything is a context problem. Structured markdown as perfect AI context repositories</li>
+          <li><strong>@gabrielchua on Skills Explained</strong> - Why markdown folders are so effective for AI agents. Progressive disclosure and formalized prompts</li>
+          <li><strong>@froessell's Claude Code Skills</strong> - Practical skill examples: iOS design, UX research, App Niche Hunter</li>
+          <li><strong>@ashpreetbedi on 5 Levels of Agentic Software</strong> - From agents with tools to full production systems</li>
+          <li><strong>@thedankoe on Multiple Interests as Superpower</strong> - The death of the expert, rise of the generalist. Living through a second renaissance</li>
+          <li><strong>@koylanai on Personal Brain OS</strong> - File system as database for AI agents. Progressive disclosure architecture</li>
+          <li><strong>@chamath on Software Factory</strong> - AI-native orchestration layer with 5 stations: Refinery, Foundry, Planner, Validator, Knowledge Graph</li>
+        </ul>
+        <p><strong>Hosts:</strong> Alex (voice: alloy) &amp; Jordan (voice: echo)</p>
+        <p><strong>Generated using:</strong> OpenAI TTS (tts-1 model)</p>
+        <p><strong>Duration:</strong> 12 minutes 34 seconds</p>
       ]]></description>
-      <pubDate>Thu, 26 Feb 2026 08:00:00 PST</pubDate>
-      <enclosure url="https://gaudonio.github.io/podcast/tweet-digest-2026-02-26.mp3" length="4432487" type="audio/mpeg"/>
-      <itunes:duration>08:00</itunes:duration>
+      <pubDate>Sun, 01 Mar 2026 05:30:00 PST</pubDate>
+      <enclosure url="https://gaudonio.github.io/podcast/daily-digest-2026-03-01.mp3" length="15088640" type="audio/mpeg"/>
+      <itunes:duration>12:34</itunes:duration>
       <itunes:author>Daily Tech Insights</itunes:author>
-      <itunes:summary>Earlier episode with ElevenLabs voices.</itunes:summary>
+      <itunes:summary>24/7 AI Assistants, Harness Engineering, Jevons' Paradox in Finance, Knowledge Graphs, Agentic Software levels, and the Software Factory vision.</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
-    
+
     <item>
       <title>Daily Tech Insights - February 26, 2026</title>
       <link>https://gaudonio.github.io/podcast/daily-tech-insights-2026-02-26.mp3</link>
@@ -45,8 +62,8 @@
           <li><strong>Hermes Agent</strong> - Nous Research's agent with multi-level memory system</li>
           <li><strong>AI Memory Management</strong> - Community solutions for persistent AI context</li>
         </ul>
-        <p>Hosts: Alex (Host A) & Jordan (Host B)</p>
-        <p>Generated using OpenAI TTS (voices: alloy & echo)</p>
+        <p>Hosts: Alex (Host A) &amp; Jordan (Host B)</p>
+        <p>Generated using OpenAI TTS (voices: alloy &amp; echo)</p>
       ]]></description>
       <pubDate>Thu, 26 Feb 2026 16:00:00 PST</pubDate>
       <enclosure url="https://gaudonio.github.io/podcast/daily-tech-insights-2026-02-26.mp3" length="2713004" type="audio/mpeg"/>
