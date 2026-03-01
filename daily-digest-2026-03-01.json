@@ -1,0 +1,119 @@
+{
+  "version": "1.0.0",
+  "segments": [
+    {
+      "speaker": "Alex",
+      "startTime": 0.0,
+      "endTime": 45.0,
+      "body": "Welcome to Daily Digest, your daily dose of insights from the tech and AI world. I'm Alex, and today we've got 10 fascinating tweets to discuss—everything from 24/7 AI assistants to the future of software factories."
+    },
+    {
+      "speaker": "Jordan",
+      "startTime": 45.0,
+      "endTime": 90.0,
+      "body": "And I'm Jordan. First up, I want to talk about this fascinating thread from LeoYe_AI about setting up a 24/7 AI agent. The core insight here is the difference between visiting AI and living with AI."
+    },
+    {
+      "speaker": "Alex",
+      "startTime": 90.0,
+      "endTime": 150.0,
+      "body": "Exactly. Most of us, we're still in the visiting AI phase. We go to ChatGPT, we ask something, we leave. It's like going to a library. But what Leo described... this is having a research assistant who literally works while you sleep."
+    },
+    {
+      "speaker": "Jordan",
+      "startTime": 150.0,
+      "endTime": 210.0,
+      "body": "That's the shift, right? From tool to teammate. And it's not just about availability—it's about continuity. The AI maintains context, it learns your preferences, it gets better over time. That's what makes it living with AI rather than just using it."
+    },
+    {
+      "speaker": "Alex",
+      "startTime": 210.0,
+      "endTime": 300.0,
+      "body": "Next, let's talk about harness engineering from Charlie Guo. This is such a useful framework. The idea that engineering is splitting into two distinct halves: building the environment versus managing the work itself."
+    },
+    {
+      "speaker": "Jordan",
+      "startTime": 300.0,
+      "endTime": 375.0,
+      "body": "Right. And then Stripe's Minions agents—1000 plus PRs per week. That's not humans writing all that code. That's the harness doing the work. The harness builders are becoming more valuable than the direct producers."
+    },
+    {
+      "speaker": "Alex",
+      "startTime": 375.0,
+      "endTime": 465.0,
+      "body": "Now for something different—Jevons' Paradox applied to finance and stablecoins. Everyone assumes that if you reduce costs, people will just use less resources. But historically, the opposite happens."
+    },
+    {
+      "speaker": "Jordan",
+      "startTime": 465.0,
+      "endTime": 555.0,
+      "body": "The examples were striking. Sling Money serving 70 countries with just 23 people. JPMorgan's Kinexys processing 2 billion dollars per day. These wouldn't be economically viable with traditional infrastructure costs."
+    },
+    {
+      "speaker": "Alex",
+      "startTime": 555.0,
+      "endTime": 645.0,
+      "body": "Company knowledge graphs from arscontexta really resonated with me. How many times have you joined a company and felt completely lost because the knowledge is scattered across Slack, Notion, Google Docs, emails?"
+    },
+    {
+      "speaker": "Jordan",
+      "startTime": 645.0,
+      "endTime": 735.0,
+      "body": "The key insight is that structure enables utility. A messy wiki is almost useless. But a well-structured markdown graph? An AI agent can navigate that, reason about it, build on it. It's almost like building an external brain for the organization."
+    },
+    {
+      "speaker": "Alex",
+      "startTime": 735.0,
+      "endTime": 810.0,
+      "body": "Skills explained by Gabriel Chua—why markdown folders are so effective for AI agents. Progressive disclosure and formalized prompts as skills."
+    },
+    {
+      "speaker": "Jordan",
+      "startTime": 810.0,
+      "endTime": 885.0,
+      "body": "And froessell's Claude Code skills—practical examples including iOS design, UX research, and App Niche Hunter. These show how skills can transform workflow."
+    },
+    {
+      "speaker": "Alex",
+      "startTime": 885.0,
+      "endTime": 960.0,
+      "body": "Ashpreet Bedi's 5 levels of agentic software—from agents with tools to full production systems. This framework helps understand where we are in the evolution."
+    },
+    {
+      "speaker": "Jordan",
+      "startTime": 960.0,
+      "endTime": 1040.0,
+      "body": "TheDankoe on multiple interests as superpower—the death of the expert, rise of the generalist. We're living through a second renaissance."
+    },
+    {
+      "speaker": "Alex",
+      "startTime": 1040.0,
+      "endTime": 1125.0,
+      "body": "Koylanai's Personal Brain OS—file system as database for AI agents. Progressive disclosure architecture with three levels."
+    },
+    {
+      "speaker": "Jordan",
+      "startTime": 1125.0,
+      "endTime": 1200.0,
+      "body": "Finally, Chamath's Software Factory—AI-native orchestration layer with five stations: Refinery, Foundry, Planner, Validator, and Knowledge Graph. This is the future of software development."
+    },
+    {
+      "speaker": "Alex",
+      "startTime": 1200.0,
+      "endTime": 1254.0,
+      "body": "That's all for today. Thanks for listening to Daily Digest. We'll be back tomorrow with more insights from the world of AI and tech."
+    },
+    {
+      "speaker": "Jordan",
+      "startTime": 1254.0,
+      "endTime": 1320.0,
+      "body": "Until next time—keep exploring, keep learning. I'm Jordan."
+    },
+    {
+      "speaker": "Alex",
+      "startTime": 1320.0,
+      "endTime": 1328.0,
+      "body": "And I'm Alex. See you tomorrow."
+    }
+  ]
+}

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
   <channel>
     <title>Daily Tech Insights</title>
     <link>https://github.com/gaudonio/podcast</link>
@@ -22,23 +22,35 @@
       <link>https://gaudonio.github.io/podcast/daily-digest-2026-03-01.mp3</link>
       <guid isPermaLink="true">https://gaudonio.github.io/podcast/daily-digest-2026-03-01.mp3</guid>
       <description><![CDATA[
-        <h2>Today's Episode:</h2>
+        <h2>Daily Digest - March 1, 2026</h2>
         <p>A comprehensive digest of 10 fascinating tweets covering the future of AI agents, software engineering, and knowledge work.</p>
+        <h3>Sources (X Posts):</h3>
+<ul>
+<li><a href="https://x.com/LeoYe_AI/status/2026137894768030148">@LeoYe_AI</a> - <a href="https://x.com/LeoYe_AI/status/2026137894768030148">https://x.com/LeoYe_AI/status/2026137894768030148</a></li>
+<li><a href="https://x.com/charlierguo/status/2026009225663750512">@charlierguo</a> - <a href="https://x.com/charlierguo/status/2026009225663750512">https://x.com/charlierguo/status/2026009225663750512</a></li>
+<li><a href="https://x.com/nlevine19/status/2025570219821818004">@nlevine19</a> - <a href="https://x.com/nlevine19/status/2025570219821818004">https://x.com/nlevine19/status/2025570219821818004</a></li>
+<li><a href="https://x.com/arscontexta/status/2026492755430474002">@arscontexta</a> - <a href="https://x.com/arscontexta/status/2026492755430474002">https://x.com/arscontexta/status/2026492755430474002</a></li>
+<li><a href="https://x.com/gabrielchua/status/2026687426593436066">@gabrielchua</a> - <a href="https://x.com/gabrielchua/status/2026687426593436066">https://x.com/gabrielchua/status/2026687426593436066</a></li>
+<li><a href="https://x.com/froessell/status/2025833621299351613">@froessell</a> - <a href="https://x.com/froessell/status/2025833621299351613">https://x.com/froessell/status/2025833621299351613</a></li>
+<li><a href="https://x.com/ashpreetbedi/status/2024885969250394191">@ashpreetbedi</a> - <a href="https://x.com/ashpreetbedi/status/2024885969250394191">https://x.com/ashpreetbedi/status/2024885969250394191</a></li>
+<li><a href="https://x.com/thedankoe/status/2010042119121957316">@thedankoe</a> - <a href="https://x.com/thedankoe/status/2010042119121957316">https://x.com/thedankoe/status/2010042119121957316</a></li>
+<li><a href="https://x.com/koylanai/status/2025286163641118915">@koylanai</a> - <a href="https://x.com/koylanai/status/2025286163641118915">https://x.com/koylanai/status/2025286163641118915</a></li>
+<li><a href="https://x.com/chamath/status/2026376844795433300">@chamath</a> - <a href="https://x.com/chamath/status/2026376844795433300">https://x.com/chamath/status/2026376844795433300</a></li>
+</ul>
         <h3>Topics Covered:</h3>
         <ul>
-          <li><strong>@LeoYe_AI on 24/7 AI Assistants</strong> - The shift from "visiting AI" to "living with AI" - AI agents that work while you sleep</li>
-          <li><strong>@charlierguo on Harness Engineering</strong> - Engineering splitting into building the environment vs managing work. OpenAI's million-line product with 3 engineers in 5 months</li>
-          <li><strong>@nlevine19 on Jevons' Paradox in Finance</strong> - How stablecoins reduce costs and increase market entry. Sling Money serving 70 countries with 23 people</li>
-          <li><strong>@arscontexta on Company Knowledge Graphs</strong> - Everything is a context problem. Structured markdown as perfect AI context repositories</li>
-          <li><strong>@gabrielchua on Skills Explained</strong> - Why markdown folders are so effective for AI agents. Progressive disclosure and formalized prompts</li>
-          <li><strong>@froessell's Claude Code Skills</strong> - Practical skill examples: iOS design, UX research, App Niche Hunter</li>
-          <li><strong>@ashpreetbedi on 5 Levels of Agentic Software</strong> - From agents with tools to full production systems</li>
-          <li><strong>@thedankoe on Multiple Interests as Superpower</strong> - The death of the expert, rise of the generalist. Living through a second renaissance</li>
-          <li><strong>@koylanai on Personal Brain OS</strong> - File system as database for AI agents. Progressive disclosure architecture</li>
-          <li><strong>@chamath on Software Factory</strong> - AI-native orchestration layer with 5 stations: Refinery, Foundry, Planner, Validator, Knowledge Graph</li>
+          <li><strong>@LeoYe_AI on 24/7 AI Assistants</strong> - The shift from "visiting AI" to "living with AI"</li>
+          <li><strong>@charlierguo on Harness Engineering</strong> - OpenAI's million-line product with 3 engineers in 5 months</li>
+          <li><strong>@nlevine19 on Jevons' Paradox in Finance</strong> - Sling Money serving 70 countries with 23 people</li>
+          <li><strong>@arscontexta on Company Knowledge Graphs</strong> - Structured markdown as AI context repositories</li>
+          <li><strong>@gabrielchua on Skills Explained</strong> - Progressive disclosure and formalized prompts</li>
+          <li><strong>@froessell's Claude Code Skills</strong> - iOS design, UX research, App Niche Hunter</li>
+          <li><strong>@ashpreetbedi on 5 Levels of Agentic Software</strong> - From tools to production systems</li>
+          <li><strong>@thedankoe on Multiple Interests</strong> - The death of the expert, rise of the generalist</li>
+          <li><strong>@koylanai on Personal Brain OS</strong> - File system as database for AI agents</li>
+          <li><strong>@chamath on Software Factory</strong> - AI-native orchestration with 5 stations</li>
         </ul>
         <p><strong>Hosts:</strong> Alex (voice: alloy) &amp; Jordan (voice: echo)</p>
-        <p><strong>Generated using:</strong> OpenAI TTS (tts-1 model)</p>
         <p><strong>Duration:</strong> 12 minutes 34 seconds</p>
       ]]></description>
       <pubDate>Sun, 01 Mar 2026 05:30:00 PST</pubDate>
@@ -47,9 +59,9 @@
       <itunes:author>Daily Tech Insights</itunes:author>
       <itunes:summary>24/7 AI Assistants, Harness Engineering, Jevons' Paradox in Finance, Knowledge Graphs, Agentic Software levels, and the Software Factory vision.</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
-    </item>
-
-    <item>
+          <podcast:transcript url="https://gaudonio.github.io/podcast/daily-digest-2026-03-01.json" type="application/json" />
+      <podcast:transcript url="https://gaudonio.github.io/podcast/daily-digest-2026-03-01.srt" type="text/srt" />
+    </item>    <item>
       <title>Daily Tech Insights - February 26, 2026</title>
       <link>https://gaudonio.github.io/podcast/daily-tech-insights-2026-02-26.mp3</link>
       <guid isPermaLink="true">https://gaudonio.github.io/podcast/daily-tech-insights-2026-02-26.mp3</guid>
