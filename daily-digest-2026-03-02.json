@@ -1,0 +1,166 @@
+{
+  "version": "1.0.0",
+  "episode": "daily-digest-2026-03-02",
+  "title": "Daily Digest - March 2, 2026: Vibe Coding, AI Agents & The Future of Programming",
+  "date": "2026-03-02",
+  "duration": "04:35",
+  "duration_seconds": 275,
+  "file_size": 2404651,
+  "hosts": {
+    "Alex": "Alex (voice: Alex)",
+    "Jordan": "Jordan (voice: Samantha)"
+  },
+  "tweet_count": 10,
+  "sources": [
+    {"author": "@naval", "url": "https://x.com/naval/status/2026058635718398029", "topic": "Vibe Coding is the New Product Management"},
+    {"author": "@karpathy", "url": "https://x.com/karpathy/status/2026731645169185220", "topic": "Programming Has Changed Due to AI"},
+    {"author": "@karpathy", "url": "https://x.com/karpathy/status/2026360908398862478", "topic": "CLIs Are Super Exciting for AI Agents"},
+    {"author": "@gregisenberg", "url": "https://x.com/gregisenberg/status/2026036464287412412", "topic": "Obsidian + Claude Code Personal OS"},
+    {"author": "@tfadell", "url": "https://x.com/tfadell/status/2026409083910369661", "topic": "PMs Don't Just Ship Features, They Kill Them"},
+    {"author": "@AravSrinivas", "url": "https://x.com/AravSrinivas/status/2026780915800871331", "topic": "Perplexity Computer One-Shotted Terminal"},
+    {"author": "@brian_lovin", "url": "https://x.com/brian_lovin/status/2026827356623745355", "topic": "Notion Workers + Custom Agents"},
+    {"author": "@johann_sath", "url": "https://x.com/johann_sath/status/2024912304039677966", "topic": "Openclaw Setup Evolution"},
+    {"author": "@NousResearch", "url": "https://x.com/NousResearch/status/2026758996107898954", "topic": "Hermes Agent with Multi-Level Memory"},
+    {"author": "@polydao", "url": "https://x.com/polydao/status/2026552743738094041", "topic": "NotebookLM + Obsidian Combo"}
+  ],
+  "segments": [
+    {
+      "speaker": "Alex",
+      "startTime": 0,
+      "endTime": 12,
+      "body": "Welcome to Daily Digest for March 2nd, 2026. I'm Alex, and I'm here with Jordan. Today we've got 10 thought-provoking tweets covering everything from vibe coding to AI-powered personal operating systems."
+    },
+    {
+      "speaker": "Jordan",
+      "startTime": 12,
+      "endTime": 19,
+      "body": "That's right, Alex. We're seeing a major shift in how people think about software development and AI agents. Let's dive in with Naval's take on vibe coding being the new product management."
+    },
+    {
+      "speaker": "Alex",
+      "startTime": 19,
+      "endTime": 32,
+      "body": "Naval's perspective here is fascinating. He argues that vibe coders—people who use English as a programming language—are essentially becoming product managers who talk directly to the computer. The computer is tireless, egoless, and works 24/7."
+    },
+    {
+      "speaker": "Jordan",
+      "startTime": 32,
+      "endTime": 47,
+      "body": "What struck me is his point about the tsunami of applications coming. Anyone can now make an app, just like anyone can make a video or podcast. But here's the catch—nobody wants average. The best application for a given use case still wins the entire category."
+    },
+    {
+      "speaker": "Alex",
+      "startTime": 47,
+      "endTime": 59,
+      "body": "Exactly. It's about taste and discernment. Now, Andrej Karpathy had two powerful tweets. First, he talked about how much programming has changed specifically in the last two months—not gradually, but dramatically."
+    },
+    {
+      "speaker": "Jordan",
+      "startTime": 59,
+      "endTime": 78,
+      "body": "His example was mind-blowing. He had an agent set up an entire video analysis dashboard for his home cameras—SSH keys, vLLM, web UI, systemd services—all in 30 minutes without touching anything. Something that would have been a weekend project just three months ago."
+    },
+    {
+      "speaker": "Alex",
+      "startTime": 78,
+      "endTime": 92,
+      "body": "Programming is becoming unrecognizable. You're not typing code into an editor anymore—that era is over. You're spinning up AI agents, giving them tasks in English, and managing their work in parallel."
+    },
+    {
+      "speaker": "Jordan",
+      "startTime": 92,
+      "endTime": 104,
+      "body": "Karpathy's other tweet focused on why CLIs are so exciting for AI agents. Because they're legacy technology, agents can natively use them, combine them, interact via the entire terminal toolkit."
+    },
+    {
+      "speaker": "Alex",
+      "startTime": 104,
+      "endTime": 118,
+      "body": "The key question he asks: can agents access and use your product? Are your docs exportable in markdown? Have you written skills for your product? Can it be used via CLI or MCP? It's 2026. Build for agents."
+    },
+    {
+      "speaker": "Jordan",
+      "startTime": 118,
+      "endTime": 127,
+      "body": "Speaking of building for agents, Greg Isenberg's thread on using Obsidian plus Claude Code as a 24-7 personal operating system really resonated with me."
+    },
+    {
+      "speaker": "Alex",
+      "startTime": 127,
+      "endTime": 145,
+      "body": "The ten-step process he outlined is brilliant. Write everything in markdown, link notes together, install Obsidian CLI so Claude can read your vault, use reference files instead of re-explaining projects, build custom slash commands like context, trace, connect, and ideas."
+    },
+    {
+      "speaker": "Jordan",
+      "startTime": 145,
+      "endTime": 155,
+      "body": "His rule is key: human writes the vault, agents read it, suggest, and execute. The more you write, the more context your agents have. Markdown files are the oxygen of LLMs."
+    },
+    {
+      "speaker": "Alex",
+      "startTime": 155,
+      "endTime": 166,
+      "body": "Switching gears to product management wisdom—Tony Fadell, the father of the iPod and Nest founder, reminds us that PMs don't just ship features. They kill them."
+    },
+    {
+      "speaker": "Jordan",
+      "startTime": 166,
+      "endTime": 177,
+      "body": "I love his Nest rule: if you can't explain why it matters, it doesn't ship. You had to tell them the why—the reason a real person would care. That one rule killed dozens of features."
+    },
+    {
+      "speaker": "Alex",
+      "startTime": 177,
+      "endTime": 190,
+      "body": "A great PM falls in love with the problem, not the roadmap. They have the guts to say: this isn't solving it, this adds complexity, this doesn't matter. Every feature should fight to exist."
+    },
+    {
+      "speaker": "Jordan",
+      "startTime": 190,
+      "endTime": 200,
+      "body": "Now for some quick hits. Aravind Srinivas from Perplexity shared that Perplexity Computer one-shotted the Terminal—a tool worth 30,000 dollars per year. The AI agent space is moving incredibly fast."
+    },
+    {
+      "speaker": "Alex",
+      "startTime": 200,
+      "endTime": 212,
+      "body": "Brian Lovin talked about his excitement around Notion Workers plus Custom Agents. He built a custom agent to help manage Shiori, a side project, giving it everything it needs to operate autonomously."
+    },
+    {
+      "speaker": "Jordan",
+      "startTime": 212,
+      "endTime": 225,
+      "body": "And Johann Sath showed the evolution of an Openclaw workspace—from a simple chatbot with personality to a full AI employee with memory, autonomous thinking loops, client profiles, decision frameworks, and custom skills."
+    },
+    {
+      "speaker": "Alex",
+      "startTime": 225,
+      "endTime": 238,
+      "body": "His point is powerful: your setup is your moat. None of this is built in. You add every file. The difference between a chatbot and an AI employee is the structure you create around it."
+    },
+    {
+      "speaker": "Jordan",
+      "startTime": 238,
+      "endTime": 252,
+      "body": "Finally, Nous Research introduced Hermes Agent—an open source agent that grows with you. It remembers what it learns and gets more capable over time with a multi-level memory system and persistent dedicated machine access."
+    },
+    {
+      "speaker": "Alex",
+      "startTime": 252,
+      "endTime": 265,
+      "body": "That's it for today's digest. From vibe coding and CLI-first agent design to the evolution of AI employees and timeless product management wisdom—March 2nd, 2026 is shaping up to be a pivotal moment in how we work with AI."
+    },
+    {
+      "speaker": "Jordan",
+      "startTime": 265,
+      "endTime": 268,
+      "body": "Thanks for listening. I'm Jordan."
+    },
+    {
+      "speaker": "Alex",
+      "startTime": 268,
+      "endTime": 275,
+      "body": "And I'm Alex. We'll be back tomorrow with more insights from the world of tech and AI. Until then, keep building."
+    }
+  ]
+}

@@ -5,8 +5,8 @@
     <link>https://github.com/gaudonio/podcast</link>
     <description>Daily podcast covering the latest in AI, tech, and developer tools from curated Twitter bookmarks.</description>
     <language>en</language>
-    <pubDate>Sun, 01 Mar 2026 05:30:00 PST</pubDate>
-    <lastBuildDate>Sun, 01 Mar 2026 05:30:00 PST</lastBuildDate>
+    <pubDate>Mon, 02 Mar 2026 07:45:00 PST</pubDate>
+    <lastBuildDate>Mon, 02 Mar 2026 07:45:00 PST</lastBuildDate>
     <atom:link href="https://gaudonio.github.io/podcast/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Daily Tech Insights</itunes:author>
@@ -17,6 +17,51 @@
     <itunes:category text="Technology"/>
     <itunes:image href="https://gaudonio.github.io/podcast/cover.png"/>
     
+    <item>
+      <title>Daily Digest - March 2, 2026: Vibe Coding, AI Agents &amp; The Future of Programming</title>
+      <link>https://gaudonio.github.io/podcast/daily-digest-2026-03-02.mp3</link>
+      <guid isPermaLink="true">https://gaudonio.github.io/podcast/daily-digest-2026-03-02.mp3</guid>
+      <description><![CDATA[
+        <h2>Daily Digest - March 2, 2026</h2>
+        <p>A comprehensive digest of 10 fascinating tweets covering vibe coding, AI agents, CLI-first design, and the future of programming.</p>
+        <h3>Sources (X Posts):</h3>
+<ul>
+<li><a href="https://x.com/naval/status/2026058635718398029">@naval</a> - <a href="https://x.com/naval/status/2026058635718398029">https://x.com/naval/status/2026058635718398029</a></li>
+<li><a href="https://x.com/karpathy/status/2026731645169185220">@karpathy</a> - <a href="https://x.com/karpathy/status/2026731645169185220">https://x.com/karpathy/status/2026731645169185220</a></li>
+<li><a href="https://x.com/karpathy/status/2026360908398862478">@karpathy</a> - <a href="https://x.com/karpathy/status/2026360908398862478">https://x.com/karpathy/status/2026360908398862478</a></li>
+<li><a href="https://x.com/gregisenberg/status/2026036464287412412">@gregisenberg</a> - <a href="https://x.com/gregisenberg/status/2026036464287412412">https://x.com/gregisenberg/status/2026036464287412412</a></li>
+<li><a href="https://x.com/tfadell/status/2026409083910369661">@tfadell</a> - <a href="https://x.com/tfadell/status/2026409083910369661">https://x.com/tfadell/status/2026409083910369661</a></li>
+<li><a href="https://x.com/AravSrinivas/status/2026780915800871331">@AravSrinivas</a> - <a href="https://x.com/AravSrinivas/status/2026780915800871331">https://x.com/AravSrinivas/status/2026780915800871331</a></li>
+<li><a href="https://x.com/brian_lovin/status/2026827356623745355">@brian_lovin</a> - <a href="https://x.com/brian_lovin/status/2026827356623745355">https://x.com/brian_lovin/status/2026827356623745355</a></li>
+<li><a href="https://x.com/johann_sath/status/2024912304039677966">@johann_sath</a> - <a href="https://x.com/johann_sath/status/2024912304039677966">https://x.com/johann_sath/status/2024912304039677966</a></li>
+<li><a href="https://x.com/NousResearch/status/2026758996107898954">@NousResearch</a> - <a href="https://x.com/NousResearch/status/2026758996107898954">https://x.com/NousResearch/status/2026758996107898954</a></li>
+<li><a href="https://x.com/polydao/status/2026552743738094041">@polydao</a> - <a href="https://x.com/polydao/status/2026552743738094041">https://x.com/polydao/status/2026552743738094041</a></li>
+</ul>
+        <h3>Topics Covered:</h3>
+        <ul>
+          <li><strong>@naval on Vibe Coding</strong> - Vibe coding is the new product management</li>
+          <li><strong>@karpathy on Programming's Tipping Point</strong> - How much programming changed in just 2 months</li>
+          <li><strong>@karpathy on CLI-First Design</strong> - Why CLIs are exciting for AI agents</li>
+          <li><strong>@gregisenberg on Personal OS</strong> - Obsidian + Claude Code as 24/7 operating system</li>
+          <li><strong>@tfadell on Product Management</strong> - PMs don't just ship features, they kill them</li>
+          <li><strong>@AravSrinivas on Perplexity Computer</strong> - One-shotting a $30K/year terminal</li>
+          <li><strong>@brian_lovin on Notion Workers</strong> - Custom agents for side projects</li>
+          <li><strong>@johann_sath on AI Employees</strong> - From chatbot to AI employee setup</li>
+          <li><strong>@NousResearch on Hermes Agent</strong> - Open source agent with multi-level memory</li>
+          <li><strong>@polydao on NotebookLM + Obsidian</strong> - Compressing 100 hours into 10 minutes</li>
+        </ul>
+        <p><strong>Hosts:</strong> Alex (voice: Alex) &amp; Jordan (voice: Samantha)</p>
+        <p><strong>Duration:</strong> 4 minutes 35 seconds</p>
+      ]]></description>
+      <pubDate>Mon, 02 Mar 2026 07:45:00 PST</pubDate>
+      <enclosure url="https://gaudonio.github.io/podcast/daily-digest-2026-03-02.mp3" length="2404651" type="audio/mpeg"/>
+      <itunes:duration>04:35</itunes:duration>
+      <itunes:author>Daily Tech Insights</itunes:author>
+      <itunes:summary>Vibe coding, AI agents, CLI-first design, and the future of programming from 10 curated tweets.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:transcript url="https://gaudonio.github.io/podcast/daily-digest-2026-03-02.json" type="application/json" />
+    </item>
+
     <item>
       <title>Daily Digest - March 1, 2026: 24/7 AI Assistants, Software Factories &amp; The Rise of Generalists</title>
       <link>https://gaudonio.github.io/podcast/daily-digest-2026-03-01.mp3</link>
